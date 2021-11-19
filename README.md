@@ -53,7 +53,6 @@
 
 ///ESTILO CSS////
 
-/*CONFIGURAÇÃO PADRÃO DA PÁGINA*/
 
 body, html {
 	margin: 0;
