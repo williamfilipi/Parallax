@@ -53,18 +53,16 @@
 
 ///ESTILO CSS////
 
-
-
 /*CONFIGURAÇÃO PADRÃO DA PÁGINA*/
 
-body, html{
+body, html {
 	margin: 0;
 	font: 16px "Lato", sans-serif;
 	color: #777;
 	height: 100%;
 }
 
-.conteudo{
+.conteudo {
 	color: #777;
 	background-color: white;
 	text-align: justify;
@@ -123,5 +121,4 @@ p{
 	font-size: 25px;
 	letter-spacing: 5px;
 	text-transform: uppercase;
-
 }
